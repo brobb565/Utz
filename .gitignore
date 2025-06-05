@@ -1,0 +1,17 @@
+# Compiled source
+/dist
+/build
+
+# Node modules
+/node_modules
+
+# Python virtual environments
+venv/
+ENV/
+
+# macOS and Linux artifacts
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
